@@ -1,0 +1,259 @@
+.thin-border {
+  border:none;
+  border-bottom: solid 1px darkgrey;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.block-links .item-list ul li {
+  margin: 0 0 0.8em 0;
+}
+
+.product-features .item-list ul li {
+  margin: 0 0 0.8em 1em;
+  list-style: square;
+}
+
+.product-os2-level,.project-os2-level {
+  padding: 1em;
+  color: #56b257;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom:1em;
+}
+.project-os2-level {
+  color:#f57a2f;
+}
+
+.product-level-qa {
+  margin-bottom:0!important;
+}
+
+article.node-project .field-name-field-group-image, article.node-team .field-name-field-group-image {
+    float: none;
+    margin: 0 0 15px 0;
+}
+article.node-project .field-name-field-group-image img, article.node-team .field-name-field-group-image img {
+    max-width: none;
+}
+
+.panel-right a {
+    color: #3b6fb6;
+}
+
+#mailchimp-signup-subscribe-block-nyhedsbrev-mail-only-form .mailchimp-newsletter-mergefields, #mailchimp-signup-subscribe-block-nyhedsbrev-mail-only-form .form-actions {
+  float:left;
+}
+
+#mailchimp-signup-subscribe-block-nyhedsbrev-mail-only-form .form-actions .form-submit {
+  padding: 0.75em 2em;
+}
+
+
+#mailchimp-signup-subscribe-block-nyhedsbrev-mail-only-form .form-actions {
+  width: auto;
+  margin-top: 2em;
+  margin-left:1em;
+}
+
+.block-ting-teams-block-1 .block-title {
+    font-size: 2.08333em;
+    margin-bottom: 30px;
+}
+
+#block-views-ting-projects-block-2 {
+  margin-top:4em;
+}
+
+.page-community section.latest-group-content, .page-community section.latest-content-products {
+  float:left;  
+  width: 46%!Important;
+  margin-right: 4em;
+}
+.page-community section.latest-content-products {
+  margin-right:0;
+}
+
+.panel-right .pane-node-create-links ul li a, .panel-right .pane-node-prepopulate ul li a {
+  background-color: #3b6fb6;
+}
+
+.flag-subscribe-og .flag-link-toggle {
+  width: 100%;
+}
+
+.pane-node-flag-subscribe-og-link {
+  padding-bottom: 8px!important;
+}
+
+.bef-select-as-links .fancy-select, #views-exposed-form-ting-events-page .description {
+  display:none;
+}
+
+.node-product .node-footer {
+  display:none;
+}
+
+.block-mailchimp-signup {
+  margin-bottom: 0!important;
+}
+
+.footer-newsletter-archive-link {
+  color:#fff;
+}
+
+.display_archive .campaign {
+  margin:0;
+  margin-bottom: 15px;
+  font-size: 1.1em;
+}
+
+.display_archive .campaign a {
+  color: #3b6fb6;
+}
+
+.english-link {
+  color: #3b6fb6;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: 600;
+  margin-right: 1.2em;
+}
+
+.page-user-message-subscribe .tabs.secondary li:first-child {
+  display:none;
+}
+
+.webform-component .form-item label {
+  display:inline;
+  font-weight:normal;
+}
+
+.form-item .description {
+  padding-bottom:5px!important;
+}
+
+/*.form-item label:first-child {
+  font-size:2em;
+  margin-top:1em;
+}*/
+
+.mc-field-group {
+  margin-top: 1em;
+}
+
+.factbox ul {
+  list-style:disc;
+}
+
+.factbox ul li {
+  margin-left: 1.2em;
+  padding-left: 0.5em;
+}
+
+.block-footer {
+  margin-top: 2em;
+}
+
+.os2-button {
+  padding: 0.75em 2em;
+  background: #3b6fb6;
+  color: white!important;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  font-family: "Montserrat-Regular","Open Sans",sans-serif;
+  box-sizing: border-box;
+  border-radius: 3px;
+  display: block;
+  width: 100%;
+}
+
+.page-community .project-overview .views-row .title {
+  color:white;
+}
+
+.page-community #block-views-ting-teams-block-2 {
+  margin-top: 2em;
+}
+
+.page-community #zone-postface-wrapper {
+  background: none!important;
+  background-color: #999!important;
+  border-bottom: 5px solid #fff;
+}
+
+.page-search .block-main.block-without-title h1:first-of-type {
+  display:none;
+}
+
+.page-search .block-main .form-type-textfield {
+  float: left;
+}
+
+.page-search .block-main .form-submit {
+  margin-top: 23px;
+  margin-left: 1em;
+}
+
+.page-search .search-api-page-results {
+  clear:both;
+  margin-top: 3em;
+}
+
+li.search-result {
+  display: block;
+  border-bottom: dashed 1px #999;
+  padding-bottom: 2em;
+  margin-bottom: 3em;
+}
+
+.search-results .search-snippet-info {
+  padding-left: 0;
+}
+
+.search-api-page-results .search-result p.search-info {
+  font-weight:normal;
+  margin-top: 1em;
+  color: #999;
+}
+
+.region-header-first .block h3, .region-header-first .block h2 {
+    display: inline-block;
+    background-color: #000;
+    padding: 5px;
+}
+
+.view.event-metadata span.label, .view-ting-sidebar-fact span.label {
+  background-color: transparent;
+  padding: 0;
+  color: #000;
+  text-align: left;
+}
+
+.webform-component {
+  margin-bottom:35px!important;
+}
+
+.webform-component .form-checkboxes .form-item {
+  margin-bottom: 1em;
+}
+
+.webform-component .form-checkboxes .form-item label, .webform-component .form-radios .form-item label {
+  font-size: 1em;
+}
+
+.news-overview .views-row .title {
+    min-height: 4em;
+}
+
+.image-filter-list .views-row .title, .logo-list .views-row .title {
+    min-height: 3em;
+}
+
+.page-projekter .views-row-3 .owner {
+  top:50px;
+}
